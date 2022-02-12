@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java Script Technology
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web application project
-- 📫 You can reacth me trough my email aldyprawita@gmail.com
+- 📫 You can reacth me through my email aldyprawita@gmail.com
