@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AldySP
+- 👀 I’m interested in Java Script Technology
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on web application project
+- 📫 How to reach me aldyprawita@gmail.com
