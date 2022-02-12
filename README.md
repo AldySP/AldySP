@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AldySP
+- 👋 Hi, I’m Aldy
 - 👀 I’m interested in Java Script Technology
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web application project
